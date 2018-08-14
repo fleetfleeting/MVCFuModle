@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BeanModle/BeanModle.iml" filepath="$PROJECT_DIR$/BeanModle/BeanModle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MVCFuModle.iml" filepath="$PROJECT_DIR$/MVCFuModle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ServiceModle/ServiceModle.iml" filepath="$PROJECT_DIR$/ServiceModle/ServiceModle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WebModle/WebModle.iml" filepath="$PROJECT_DIR$/WebModle/WebModle.iml" />
+    </modules>
+  </component>
+</project>
